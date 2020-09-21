@@ -1,0 +1,12 @@
+
+.grand-total {
+    color: #AC1D0F;
+}
+.review-button {
+    width: 200px;
+    background-color: goldenrod; 
+    padding: 5px;
+    border: 1px solid #83692D;
+    border-radius: 5px;
+    cursor: pointer;
+}
